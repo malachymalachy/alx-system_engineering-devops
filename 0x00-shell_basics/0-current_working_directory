@@ -1,1 +1,16 @@
 #!/bin/bash
+
+
+echo 'Where_am_I?' > README.md
+
+
+\n
+
+
+git add .
+
+
+git commit -m 'Script_writing'
+
+
+git push
